@@ -36,11 +36,12 @@ Menus, icons, etc are based on your own creativity and understanding of HCI conc
 
 ## Prototype Design
 
-<img width="954" alt="Screen Shot 2022-02-25 at 10 28 18 AM" src="https://user-images.githubusercontent.com/69279321/155741847-e5d0bf8a-9429-4c27-9b26-fc6d1ebe5395.png">
+<img width="878" alt="Screen Shot 2022-03-31 at 9 10 17 AM" src="https://user-images.githubusercontent.com/69279321/161062379-3dbad1fe-770b-4d82-8485-30ec0ef7bc5e.png">
+
 
 ## Navigation Design
+<img width="935" alt="Screen Shot 2022-03-31 at 9 10 52 AM" src="https://user-images.githubusercontent.com/69279321/161062484-01cbb8a1-0b0b-49ab-bb6c-11b81496395c.png">
 
-<img width="1055" alt="Screen Shot 2022-02-25 at 10 28 41 AM" src="https://user-images.githubusercontent.com/69279321/155741909-4cd39970-f26a-4f1f-be39-60354d2dd209.png">
 
 ## New desirable functionlities
 
@@ -55,6 +56,3 @@ Menus, icons, etc are based on your own creativity and understanding of HCI conc
 
 - [Prototype Figma-Sheridan course Application Flutter App](https://www.figma.com/file/MGZuFqzJTyu9aImrvjwUYf/Sheridan-Course-App?node-id=0%3A1)
 
-## Youtube Video 
-
-- [Youtube Link-Sheridan course Application Flutter App]()
