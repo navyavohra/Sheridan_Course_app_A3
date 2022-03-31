@@ -16,6 +16,7 @@ Menus, icons, etc are based on your own creativity and understanding of HCI conc
 ## Features
 
 - Subjects
+- Proffesor office call
 - Schedule with date and time
 - Calender, upcoming assignments
 - Professor Profile
@@ -25,7 +26,9 @@ Menus, icons, etc are based on your own creativity and understanding of HCI conc
 - Student Profile
 
 ## Screens
-
+- Main Page: If the user has already loged in then they click login. If the user hasn't loged in then they click Register.
+- Register Page: New Users Regiser to the system with sheridan email and password.
+- Login Page: Old users login with the registered Id and password.
 - Home Screen: All subject/courses will be shown here. Example Mathematics, Biology, Geography etc.
 - Course Screen: All classes/lectures taking place that semester by different profs can be see, with Prof name, class description.
 - Specific Course Screen: A specific class of one prof can be for example, prof ghaseem's class. Here, downloadable pdfs are can be found for the class.
